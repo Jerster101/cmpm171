@@ -69,3 +69,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Binaries/Win64/tbb.pdb
+Binaries/Win64/MyProject-Win64-Shipping.target
+Binaries/Win64/MyProject-Win64-Shipping.pdb
+Binaries/Win64/MyProject-Win64-Shipping.exp
